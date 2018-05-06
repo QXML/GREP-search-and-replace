@@ -20,7 +20,7 @@ After:
 ![CSV file](http://www.quarkforums.com/resources/git/md_images/grep2.png)  
 
 Video:  
-[![Video showing GREP in QuarkXPress](http://img.youtube.com/vi/v8ywPZ8Ud_M/0.jpg)](http://www.youtube.com/watch?v=v8ywPZ8Ud_M)  
+[![Video showing GREP in QuarkXPress](http://www.quarkforums.com/resources/git/md_images/grep_movie_preview.jpg)](http://www.youtube.com/watch?v=v8ywPZ8Ud_M)  
 
 ### Version History  
 May 2018: Initial version  
