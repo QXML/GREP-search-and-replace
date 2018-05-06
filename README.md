@@ -23,7 +23,7 @@ Video:
 [![Video showing GREP in QuarkXPress](http://img.youtube.com/vi/v8ywPZ8Ud_M/0.jpg)](http://www.youtube.com/watch?v=v8ywPZ8Ud_M)  
 
 ### Version History  
-May 2018: Original version as supplied with QuarkXPress 2018
+May 2018: Initial version  
 ## <a name="howinstall"></a>How to install
 1. On the GitHub page, download the ZIP by clicking on the green button "Clone or download"  
 ![Step 1](http://www.quarkforums.com/resources/git/install_images/step1.png)
